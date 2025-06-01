@@ -1,0 +1,35 @@
+
+    {
+  "settings": {
+    "region": "europe - de",
+    "punkbaster": true,
+    "fairfight": true,
+    "password": false,
+    "preset": "normal"
+  },
+    "advanced": {
+    "minimap": true,
+    "onlySquadLeaderSpawn": false,
+    "vehicles": true,
+    "teamBalance": true,
+    "minimapSpotting": true,
+    "hud": true,
+    "thirdPersonVehicleCamera": true,
+    "regenerativeHealth": true,
+    "killCam": true,
+    "friendlyFire": false,
+    "threeDSpotting": true,
+    "enemyNameTags": true
+  },
+  "rules": {
+    "tickets": 400,
+    "vehicleSpawnDelay": 25,
+    "bulletDamage": 100,
+    "kickAfterTeamKills": 5,
+    "playerHealth": 100,
+    "playerRespawnTime": 100,
+    "kickAfterIdle": 300,
+    "banAfterKicks": true
+  }
+}
+
